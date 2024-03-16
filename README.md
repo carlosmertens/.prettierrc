@@ -1,0 +1,2 @@
+# .prettierrc
+Prettier configuration options
